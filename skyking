@@ -107,7 +107,7 @@ Sprint Food true
 Sprint CheckServerSide false
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Strafe true
+Strafe toggle true
 Tower Mode AAC3.6.4
 Tower AutoBlock true
 Tower StayAutoBlock true
@@ -130,5 +130,6 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
-chat &6&lConfig made by &4Kminster
+chat &e&l[SkyKingdoms] &6&l[Config] &3made by &4Kminster
 chat "&3&lNoFall &7&lCubeCraft &3is required so you don't take fall damage while flying. &3&lCrticals &7NoGround &3for some reason helps?"
+chat ".panic all if staff is watching if you want. Turn off autoblock KillAura if you want to be seen semi-legit."
