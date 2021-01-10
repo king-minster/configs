@@ -1,6 +1,3 @@
-chat &3Don't &3use &4LongJump &3and &4Fly&3.
-chat &6&lConfig made by &4Kminster
-chat "&3&lNoFall &7&lCubeCraft &3is required so you don't take fall damage while flying. &3&lCrticals &7NoGround &3for some reason helps?"
 AutoArmor MaxDelay 100
 AutoArmor MinDelay 75
 AutoArmor InvOpen false
@@ -111,6 +108,7 @@ Step Height 1.0
 Step JumpHeight 0.5
 Step Delay 150
 Step toggle true
+Strafe true
 Tower Mode AAC3.6.4
 Tower AutoBlock true
 Tower StayAutoBlock true
@@ -133,3 +131,6 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
+chat &3Don't &3use &4LongJump &3and &4Fly&3.
+chat &6&lConfig made by &4Kminster
+chat "&3&lNoFall &7&lCubeCraft &3is required so you don't take fall damage while flying. &3&lCrticals &7NoGround &3for some reason helps?"
