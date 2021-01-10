@@ -65,6 +65,7 @@ KillAura MinPredictSize 0.5
 KillAura FailRate 0.0
 KillAura FakeSwing false
 KillAura NoInvAttack false
+NoFall Mode Cubecraft
 NoSlow BlockForwardMultiplier 1.0
 NoSlow BlockStrafeMultiplier 1.0
 NoSlow ConsumeForwardMultiplier 1.0
@@ -76,6 +77,9 @@ NoSlow toggle true
 PingSpoof MaxDelay 1000
 PingSpoof MinDelay 750
 PingSpoof toggle true
+Reach CombatReach 7.0
+Reach BuildReach 7.0
+Reach toggle true
 Scaffold Mode Normal
 Scaffold MaxDelay 57
 Scaffold MinDelay 47
@@ -103,7 +107,7 @@ Sprint Food true
 Sprint CheckServerSide false
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Strafe
+Strafe true
 Tower Mode AAC3.6.4
 Tower AutoBlock true
 Tower StayAutoBlock true
@@ -126,6 +130,5 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
-chat &3Don't &3use &4LongJump &3and &4Fly&3.
 chat &6&lConfig made by &4Kminster
 chat "&3&lNoFall &7&lCubeCraft &3is required so you don't take fall damage while flying. &3&lCrticals &7NoGround &3for some reason helps?"
