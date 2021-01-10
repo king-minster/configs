@@ -103,12 +103,7 @@ Sprint Food true
 Sprint CheckServerSide false
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
-Step Mode NCP
-Step Height 1.0
-Step JumpHeight 0.5
-Step Delay 150
-Step toggle true
-Strafe true
+Strafe
 Tower Mode AAC3.6.4
 Tower AutoBlock true
 Tower StayAutoBlock true
