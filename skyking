@@ -1,4 +1,4 @@
-AirJump toggle
+AirJump toggle true
 Criticals Mode NoGround
 Criticals HurtTime 10
 Criticals toggle true
