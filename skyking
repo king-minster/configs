@@ -1,8 +1,7 @@
-AirJump toggle true
 Criticals Mode NoGround
 Criticals HurtTime 10
 Criticals toggle true
-Fly Mode AAC1.9.10
+Fly Mode Ncp
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
@@ -81,6 +80,8 @@ Sprint CheckServerSide false
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
 Strafe toggle true
+Timer Speed 3.80
+Timer toggle true
 Tower Mode AAC3.6.4
 Tower AutoBlock true
 Tower StayAutoBlock true
@@ -103,6 +104,6 @@ Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
 Velocity toggle true
+chat &6Enable timer + flight for it to work. Timer + fly works for a long time but you should stop after a bit.
 chat &e&l[SkyKingdoms] &6&l[Config] &3made by &4Kminster
-chat &3&lNoFall &7&lCubeCraft &3is required so you don't take fall damage while flying. &3&lCrticals &7NoGround &3for some reason helps?
-chat [&4&l.panic all] &e&lif staff is watching if you want. Turn off autoblock KillAura if you want to be seen semi-legit.
+
