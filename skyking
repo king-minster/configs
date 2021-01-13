@@ -82,7 +82,7 @@ Sprint CheckServerSideOnlyGround false
 Sprint toggle true
 Strafe toggle true
 Timer Speed 3.80
-Timer toggle true
+Timer toggle false
 Tower Mode AAC3.6.4
 Tower AutoBlock true
 Tower StayAutoBlock true
