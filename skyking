@@ -80,6 +80,7 @@ Sprint CheckServerSide false
 Sprint CheckServerSideOnlyGround false
 Sprint toggle true
 Strafe toggle true
+Teams toggle true
 Timer Speed 3.80
 Timer toggle false
 Tower Mode AAC3.6.4
