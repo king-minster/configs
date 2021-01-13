@@ -2,6 +2,7 @@ Criticals Mode NoGround
 Criticals HurtTime 10
 Criticals toggle true
 Fly Mode Ncp
+Hud toggle true
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro false
 InventoryMove NoMoveClicks false
