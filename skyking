@@ -1,3 +1,4 @@
+ESP toggle true
 Fucker toggle true
 Fly Mode Ncp
 Hud toggle true
@@ -99,6 +100,7 @@ Tower TeleportHeight 2.01
 Tower TeleportDelay 0
 Tower TeleportGround true
 Tower TeleportNoMotion true
+Tracers toggle true
 Velocity Horizontal 0.0
 Velocity Vertical 0.0
 Velocity Mode Simple
