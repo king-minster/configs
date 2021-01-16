@@ -1,6 +1,8 @@
 ESP toggle true
 Fucker toggle true
 Fly Mode Ncp
+Fastclimb toggle true
+FastClimb Mode Vanilla 
 Hud toggle true
 InventoryMove NoDetectable false
 InventoryMove AACAdditionPro false
