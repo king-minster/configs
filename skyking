@@ -1,5 +1,5 @@
 ESP toggle true
-Fucker toggle true
+Fucker toggle false
 Fly Mode Ncp
 Fastclimb toggle true
 FastClimb Mode Vanilla 
@@ -11,7 +11,7 @@ InventoryMove toggle true
 KillAura MaxCPS 14
 KillAura MinCPS 10
 KillAura HurtTime 10
-KillAura Range 8
+KillAura Range 6
 KillAura ThroughWallsRange 2.5
 KillAura RangeSprintReducement 0.0
 KillAura TargetMode Single
@@ -51,8 +51,8 @@ NoSlow toggle true
 PingSpoof MaxDelay 1000
 PingSpoof MinDelay 750
 PingSpoof toggle true
-Reach CombatReach 7.0
-Reach BuildReach 7.0
+Reach CombatReach 6.0
+Reach BuildReach 6.0
 Reach toggle true
 Scaffold Mode Normal
 Scaffold MaxDelay 57
@@ -83,7 +83,7 @@ Sprint CheckServerSideOnlyGround false
 Sprint toggle true
 Strafe toggle true
 Teams toggle true
-Timer Speed 3.80
+Timer Speed 5
 Timer toggle false
 Tower Mode AAC3.6.4
 Tower AutoBlock true
